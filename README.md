@@ -14,4 +14,4 @@ Moreover, you will find some reports, deeply describing each step, making asympt
 
 ### Authors.
 * Luis Ariel Fuentes Cruz.
-* MArlene Viviane Ayala Salcedo.
+* Marlene Viviane Ayala Salcedo.
